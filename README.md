@@ -19,7 +19,7 @@
 ## 4️⃣ OS
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows10&logoColor=white"/> <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCK0819&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCK0819&layout=compact&theme=dark) ![MCK0819's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCK0819&show_icons=true&theme=tokyonight)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
