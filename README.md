@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=200&section=header&text=MCK0819&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=200&section=header&text=MCK0819&fontSize=90&animation=blinking&rotate=13" />
 
 ## Introduction
 안녕하세요! 백엔드 개발자로 일한 경험이 있으며, 현재는 재직중입니다.
