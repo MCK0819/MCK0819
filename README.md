@@ -3,10 +3,10 @@
 ### Hi there 👋
 
 1️⃣Platforms & Languages
-<img src="https://img.shields.io/badge/Django#092E20?style=#092E20&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python#3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java#bbb?style=flat&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring#6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-#092E20?style=#092E20&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-#bbb?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-#6DB33F?style=flat&logo=Spring&logoColor=white"/>
 
 
 <!--
