@@ -19,7 +19,7 @@
 ## 4️⃣ OS
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows10&logoColor=white"/> <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white"/>
 
-![MCK0819's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCK0819&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCK0819&layout=compact&theme=dark)
 
 ## Career
 #### 1. 22-11 ~ Ing   영우씨엔아이 재직중
