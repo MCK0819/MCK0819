@@ -60,4 +60,11 @@
 #### 업무 성과 : KT RINGO 재구축 및 고도화
 #### 사용 기술 : 오라클 SQL문 재정의 및 자바스크립트, 자바
 
+
+## 앞으로 해나가야 할것들
+#### RESTful API 를 조금 더 많이 경험 해보기
+#### 이론 관련 CS 책 읽으며 배경지식 넓히기
+#### 웹호스팅, 클라우드를 이용 경험 능숙하게 가져보기
+#### Git 커밋할때 메시지를 깔끔하게 만들기
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=footer&text=Bye!&fontSize=55&fontColor=ffffff&fontAlignY=65" />
