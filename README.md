@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Welcome!&fontSize=75&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=Welcome!&fontSize=65&fontColor=ffffff&fontAlignY=35" />
 
 ## Introduction
 안녕하세요! 백엔드 개발자로 일한 경험이 있으며, 현재는 재직중입니다.
@@ -60,4 +60,4 @@
 #### 업무 성과 : KT RINGO 재구축 및 고도화
 #### 사용 기술 : 오라클 SQL문 재정의 및 자바스크립트, 자바
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer&text=Bye!&fontSize=75&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=footer&text=Bye!&fontSize=55&fontColor=ffffff&fontAlignY=65" />
