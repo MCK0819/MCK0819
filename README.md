@@ -30,6 +30,8 @@
 
 ## 프리랜서 외주
 #### 웹개발 플랫폼 풀스택 개발 중 😭
+#### 구축 환경 :  Python3.9 ++ , Django Framework, Docker, Postgresql
+#### 운영 환경 : GabiaCloud, Celery, Nginx, Docker
 
 ## Career Description
 
