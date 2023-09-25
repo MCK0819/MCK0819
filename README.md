@@ -75,5 +75,7 @@
 #### 웹호스팅, 클라우드를 이용 경험 능숙하게 가져보기
 #### Git 커밋할때 메시지를 깔끔하게 만들기
 #### TDD 프로그래밍 해보기
+#### 빌드/테스트/배포 자동화 경험해보기
+#### 오픈소스 코드 수정하고 활용해보기
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=footer&text=Bye!&fontSize=55&fontColor=ffffff&fontAlignY=65" />
