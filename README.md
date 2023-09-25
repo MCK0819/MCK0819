@@ -33,6 +33,7 @@
 #### 구축 환경 :  Python3.9 ++ , Django Framework, Docker, Postgresql
 #### 운영 환경 : GabiaCloud, Celery, Nginx, Docker
 
+
 ## Career Description
 
 ### 측색기 프로젝트
@@ -47,6 +48,11 @@
 #### 주요 역할 : 결제서버 구축 및 결제 API 연동
 #### 업무 성과 : 결제서버 신규 구축 후 안정화 및 본 홈페이지와 연동 완료
 #### 사용 기술 : 토스페이먼츠 결제모듈 API , 자바스크립트 , 파이썬 , 장고
+#### 개발 동기 : 인터넷 Active X 지원 종료에 의해 결제 모듈을 다시 개발해야했는데,
+#### 본 홈페이지가 PHP로 구축된 서버가 운영서버 하나로만 되어있어 건들기는 리스크가 커
+#### 새로운 결제서버를 구축한 뒤, 토스페이먼츠의 API를 사용하여 결제모듈을 구축함
+#### 우려 사항 : 클라우드에 쓸 돈이 없다며, 웹프레임워크로 서버를 돌리는 형식으로 사용중
+#### 보안이나 서버가 자주끊길 상황이 우려됨
 
 ### LG ITMS 재구축
 #### 소속회사 : 엠에스링크앤 솔루션
@@ -68,5 +74,6 @@
 #### 이론 관련 CS 책 읽으며 배경지식 넓히기
 #### 웹호스팅, 클라우드를 이용 경험 능숙하게 가져보기
 #### Git 커밋할때 메시지를 깔끔하게 만들기
+#### TDD 프로그래밍 해보기
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=footer&text=Bye!&fontSize=55&fontColor=ffffff&fontAlignY=65" />
