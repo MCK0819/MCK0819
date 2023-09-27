@@ -1,9 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=Welcome!&fontSize=65&fontColor=ffffff&fontAlignY=35" />
 
 ## Introduction
-안녕하세요! 백엔드 개발자로 일한 경험이 있으며, 현재는 재직중입니다.
+안녕하세요! 
 
-맡은바 제 임무에 책임을 다하며, 소통을 중요시하고 최대한 효율적으로 일하고 싶어합니다.
+맡은바 제 임무에 책임을 다하며, 소통을 중요시하고 최대한 효율적으로 일하고 싶어하는 백엔드 개발자 민찬기 입니다.
+
+python, Django, nginx, docker, docker-compose , postgresql을 이용해 서버를 구축하여 가비아 클라우드로 배포한 경험이 있습니다.
+
 
 
 ## 1️⃣ Framework & Libraries
