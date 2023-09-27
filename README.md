@@ -8,40 +8,36 @@
 python, Django, nginx, docker, docker-compose , postgresql을 이용해 서버를 구축하여 가비아 클라우드로 배포한 경험이 있습니다.
 
 
+## Skils
 
-## 1️⃣ Framework & Libraries
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+## 1️⃣ 프레임워크 및 라이브러리
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 
 ## 2️⃣ Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
 ## 3️⃣ Databases
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-
-## 4️⃣ OS
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows10&logoColor=white"/> <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCK0819&layout=compact&theme=dark) ![MCK0819's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCK0819&show_icons=true&theme=tokyonight)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## Career
+## Career (총 2년 4개월)
 1. 22-11 ~ Ing   영우씨엔아이 재직중
-2. 22-02 ~ 22-07 엠에스링크앤솔루션 근무
-3. 20-08 ~ 21-06 디노밴 네트웍스 근무
+2. 22-02 ~ 22-07 엠에스링크앤솔루션 근무 
+3. 20-08 ~ 21-06 디노밴 네트웍스 근무 
 
-## 프리랜서 외주
-웹개발 플랫폼 풀스택 개발 중 😭
+## Career Description
+
+### 프리랜서 외주
+
+주요 역할 : 웹개발 플랫폼 풀스택 개발
 
 구축 환경 :  Python3.9 ++ , Django Framework, Docker, Postgresql
 
 운영 환경 : GabiaCloud, Celery, Nginx, Docker
-
-
-## Career Description
-
 
 ### VtexDDM
 연계/소속회사 : 중소기업벤처부/영우씨엔아이
@@ -58,7 +54,7 @@ python, Django, nginx, docker, docker-compose , postgresql을 이용해 서버�
 
 수행 기간 : 23-05 ~ 23-07 (약 3개월 소요)
 
-주요 역할 : 머신러닝을 이용한 측색값을 입력 받아 Pantone color와 비슷한 ID를 출력
+주요 역할 : 머신러닝을 이용한 측색값을 입력 받아 Pantone color와 근사한 RGB값을 출력
 
 업무 성과 : 색 예측 정확도 85%로 안정화 및 개발 완료
 
@@ -84,9 +80,13 @@ python, Django, nginx, docker, docker-compose , postgresql을 이용해 서버�
 
 새로운 결제서버를 구축한 뒤, 토스페이먼츠의 API를 사용하여 결제모듈을 구축함
 
-우려 사항 : 클라우드에 쓸 돈이 없다며, 웹프레임워크로 서버를 돌리는 형식으로 사용중
+우려 사항 :웹프레임워크로 서버를 돌리는 형식으로 사용중
 
 보안이나 서버가 자주끊길 상황이 우려됨
+
+해결 방안 :  클라우드에 서버를 구축하여 웹서버를 만들어야함
+
+하지만, 비용 문제때문에 그러질 못하고 있음.
 
 ### LG ITMS 재구축
 소속회사 : 엠에스링크앤 솔루션
@@ -113,7 +113,7 @@ python, Django, nginx, docker, docker-compose , postgresql을 이용해 서버�
 ## 앞으로 해나가야 할것들
 RESTful API 를 조금 더 많이 경험 해보기
 
-이론 관련 CS 책 읽으며 배경지식 넓히기
+개념 관련 CS 책 읽으며 배경지식 넓히기
 
 웹호스팅, 클라우드를 이용 경험 능숙하게 가져보기
 
