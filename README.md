@@ -5,8 +5,9 @@
 
 맡은바 제 임무에 책임을 다하며, 소통을 중요시하고 최대한 효율적으로 일하고 싶어하는 백엔드 개발자 민찬기 입니다.
 
-python, Django, nginx, docker, docker-compose , postgresql을 이용해 서버를 구축하여 가비아 클라우드로 배포한 경험이 있습니다.
+최근엔 실제 서비스 웹페이지에 관심이 많아서 웹플랫폼개발 외주를 받아서 완료하였습니다.
 
+python, Django, nginx, docker, docker-compose , postgresql을 이용해 서버를 구축하여 가비아 클라우드로 배포한 경험이 있습니다.
 
 ## Skils
 
@@ -32,6 +33,8 @@ python, Django, nginx, docker, docker-compose , postgresql을 이용해 서버�
 ## Career Description
 
 ### 프리랜서 외주
+
+수행 기간 : 2023.05 ~ 23.09
 
 주요 역할 : 웹개발 플랫폼 풀스택 개발
 
