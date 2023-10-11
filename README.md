@@ -9,6 +9,10 @@
 
 python, Django, nginx, docker, docker-compose , postgresql을 이용해 서버를 구축하여 가비아 클라우드로 배포한 경험이 있습니다.
 
+## 포트폴리오
+
+https://mck0819.notion.site/59fc5ebc39414ac2908b21bd34da98dc?pvs=4
+
 ## Skils
 
 ## 1️⃣ 프레임워크 및 라이브러리
