@@ -29,7 +29,7 @@ https://mck0819.notion.site/59fc5ebc39414ac2908b21bd34da98dc?pvs=4
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## Career (총 2년 4개월)
+## Career (총 2년 9개월)
 1. 22-11 ~ Ing   영우씨엔아이 재직중
 2. 22-02 ~ 22-07 엠에스링크앤솔루션 근무 
 3. 20-08 ~ 21-06 디노밴 네트웍스 근무 
