@@ -26,10 +26,6 @@ https://mck0819.notion.site/59fc5ebc39414ac2908b21bd34da98dc?pvs=4
 ## 3️⃣ Databases
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCK0819&layout=compact&theme=dark) ![MCK0819's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCK0819&show_icons=true&theme=tokyonight)
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ## Career (총 2년 9개월)
 1. 22-11 ~ Ing   영우씨엔아이 재직중
 2. 22-02 ~ 22-07 엠에스링크앤솔루션 근무 
@@ -105,6 +101,10 @@ https://mck0819.notion.site/59fc5ebc39414ac2908b21bd34da98dc?pvs=4
 • 웹 페이지 통계 화면 설계,개발 및 유지 보수 및 DB SQL 작성
 
 • 사용 기술 : 오라클 SQL문 재정의 및 자바스크립트, 자바
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCK0819&layout=compact&theme=dark) ![MCK0819's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCK0819&show_icons=true&theme=tokyonight)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 앞으로 해나가야 할것들
 RESTful API 를 조금 더 많이 경험 해보기
