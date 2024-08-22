@@ -26,7 +26,7 @@ https://mck0819.notion.site/59fc5ebc39414ac2908b21bd34da98dc?pvs=4
 ## 3️⃣ Databases
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 
-## Career (총 2년 9개월)
+## Career (총 3년 0개월)
 1. 24-06 ~ ing 론픽 수습 재직중
 2. 22-11 ~ 24-05   영우씨엔아이 근무
 3. 22-02 ~ 22-07 엠에스링크앤솔루션 근무 
@@ -37,6 +37,9 @@ https://mck0819.notion.site/59fc5ebc39414ac2908b21bd34da98dc?pvs=4
 ### 론픽 2024.06 - ing
 
 python django drf 백엔드 개발자로 현재는 수습
+
+- 앱 회원가입 및 목록 API 서빙
+- 머신 운동데이터 API 서빙
 
 ### 영우씨엔아이   2022.11 - 24.05
 
