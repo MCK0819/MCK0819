@@ -2,7 +2,7 @@
 
 ## Introduction
 안녕하세요! 
-맡은바 제 임무에 책임을 다하며, 소통을 중요시하고 함께 성장하기에 관심이 많은 2년차 주니어 개발자 민찬기 입니다.
+맡은바 제 임무에 책임을 다하며, 소통을 중요시하고 함께 성장하기에 관심이 많은 3년차 개발자 민찬기 입니다.
 Java/Spring 기반의 백엔드 지식을 주로 학습하였고, 현업에서는 Python/Django 주로 사용하고 있으며 새로운 것을 배우고 도전하는 것을 좋아합니다.
 
 실용 음악을 전공했었지만, 군대에 입대하면서 미래를 객관적으로 보고 생각해본 결과 생활 유지가 불가능 할 것 같아 진로를 개발자로 바꿨습니다.
@@ -26,8 +26,8 @@ https://mck0819.notion.site/59fc5ebc39414ac2908b21bd34da98dc?pvs=4
 ## 3️⃣ Databases
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 
-## Career (총 3년 0개월)
-1. 24-06 ~ ing 론픽 수습 재직중
+## Career (총 3년 6개월)
+1. 24-06 ~ ing 론픽 재직중
 2. 22-11 ~ 24-05   영우씨엔아이 근무
 3. 22-02 ~ 22-07 엠에스링크앤솔루션 근무 
 4. 20-08 ~ 21-06 디노밴 네트웍스 근무 
@@ -36,10 +36,11 @@ https://mck0819.notion.site/59fc5ebc39414ac2908b21bd34da98dc?pvs=4
 
 ### 론픽 2024.06 - ing
 
-python django drf 백엔드 개발자로 현재는 수습
+python django drf 백엔드 개발자
 
 - 앱 회원가입 및 목록 API 서빙
 - 머신 운동데이터 API 서빙
+- 머신 결과지 및 계산식 구현
 
 ### 영우씨엔아이   2022.11 - 24.05
 
@@ -111,8 +112,6 @@ python 기반 django 프레임워크로 webtex3D 유지 보수
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 앞으로 해나가야 할것들
-RESTful API 를 조금 더 많이 경험 해보기
-
 개념 관련 CS 책 읽으며 배경지식 넓히기
 
 웹호스팅, 클라우드를 이용 경험 능숙하게 가져보기
